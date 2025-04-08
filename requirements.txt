@@ -1,0 +1,9 @@
+tensorflow
+keras==2.15.0
+numpy
+pillow
+matplotlib
+tqdm
+transformers
+torch
+streamlit
